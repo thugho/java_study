@@ -1,1 +1,1 @@
-# This repository contains my cpp study code.
+# This repository contains my java study code.
